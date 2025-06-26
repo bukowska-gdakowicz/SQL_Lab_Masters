@@ -16,7 +16,7 @@ Introduction All tasks from lessons 1-6 done basing on public database HR (Human
 
 •	Lesson_5 : Analytical functions
 
-•	Lesson_6 : Case study
+•	Lesson_6 : Case study / Project (see excel file with the results and data analysis done in sql file)
 
 •	Exam : 5 practical tasks
 
